@@ -109,7 +109,7 @@ section {
 #transform-world {
   height: 560px;
   background-size: cover;
-  background-image: url("../images/woman-code.png");
+  background-image: url("/assets/images/woman-code.png");
   background-attachment: fixed;
   border-top: 1px solid #33A8DB80;
   border-bottom: 1px solid #33A8DB80;
@@ -119,7 +119,7 @@ section {
 #transform-world p {
   font-weight: 900;
   font-size: 2.5rem;
-  text-transform: lowercase;
+  text-transform: capitalize;
   max-width: 250px;
   text-shadow: 3px 2px #33A8DB;
 }
